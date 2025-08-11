@@ -1,6 +1,7 @@
 # 个人简介 / Bio
 
 我把**硬件原型**与**云端工程**打通，聚焦边缘计算、自动化与可复用交付。
+
 I bridge **hardware prototyping** and **cloud engineering**, with focus on edge computing, automation, and reproducible delivery.
 
 [![YaleCheng404's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaleCheng404)](https://github.com/anuraghazra/github-readme-stats)
