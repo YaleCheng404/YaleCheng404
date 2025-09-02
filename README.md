@@ -1,11 +1,5 @@
 # 个人简介 / Bio
 
-我把**硬件原型**与**云端工程**打通，聚焦边缘计算、自动化与可复用交付。
-
-I bridge **hardware prototyping** and **cloud engineering**, with focus on edge computing, automation, and reproducible delivery.
-
-[![YaleCheng404's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaleCheng404)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 核心语言与栈 / Core Languages & Stacks
 
 * **Verilog**（FPGA/数字电路） / (FPGA & digital logic)
@@ -22,11 +16,4 @@ I bridge **hardware prototyping** and **cloud engineering**, with focus on edge 
 * **输入法与工作流**：Rime 个性化配置，提升多语种输入与开发效率。
   **Input & Workflow**: Rime customizations for productivity and multilingual input.
 
-## 工作方法 / Operating Principles
-
-* **Automation-first**：能脚本化，绝不手动；提交即可复现与部署。
-  If it can be scripted, it will be; every commit is reproducible and deployable.
-* **轻量与可维护**：少依赖、清晰边界、快速回滚。
-  Lean, low-dependency architectures with clear boundaries and fast rollback.
-* **度量与可观察**：用日志、指标与告警闭环改进。
-  Metrics, logs, and alerts drive continuous improvement.
+[![YaleCheng404's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaleCheng404)](https://github.com/anuraghazra/github-readme-stats)
