@@ -15,5 +15,3 @@
   **Automation & Ops**: GitHub Actions pipelines, status/subscription monitors, VPS tooling.
 * **输入法与工作流**：Rime 个性化配置，提升多语种输入与开发效率。
   **Input & Workflow**: Rime customizations for productivity and multilingual input.
-
-[![YaleCheng404's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaleCheng404)](https://github.com/anuraghazra/github-readme-stats)
